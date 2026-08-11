@@ -1,0 +1,51 @@
+baseURL = 'snlogs.dev'
+locale = 'en-us'
+title = 'snlogs'
+theme = 'archie'
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+
+[params]
+    mode="dark"
+    subtitle="Servicenow thoughts and quirks"
+    useCDN=false
+    mathjax=true
+    katex=true
+
+
+# social tags
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/JakobBoedker"
+
+[[params.social]]
+name = "SN Community"
+icon = "code"
+url = "https://www.servicenow.com/community/user/viewprofilepage/user-id/683965"
+
+
+#Main menu items
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All Posts"
+url = "/posts"
+weight = 2
+
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4

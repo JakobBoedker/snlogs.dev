@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>snlogs</title>
+		<link>//localhost:1313/</link>
+		<description>Recent content on snlogs</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 11 Aug 2026 08:55:00 +0200</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>My First Post</title>
+				<link>//localhost:1313/posts/my-first-post/</link>
+				<pubDate>Tue, 11 Aug 2026 08:55:00 +0200</pubDate>
+				<guid>//localhost:1313/posts/my-first-post/</guid>
+				<description>&lt;h2 id=&#34;introduction&#34;&gt;introduction&lt;/h2&gt;&#xA;&lt;p&gt;this is a test &lt;strong&gt;bold shit&lt;/strong&gt; text!&lt;/p&gt;&#xA;&lt;p&gt;this is a link &lt;a href=&#34;https://jelly.r3l4x.com&#34;&gt;jellyfin&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
