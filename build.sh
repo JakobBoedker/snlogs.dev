@@ -90,10 +90,10 @@ main() {
   fi
 
   # Initialize Git submodules
-  if [[ -f .gitmodules ]]; then
-    echo "Initializing Git submodules..."
-    git submodule update --init --recursive
-  fi
+#  if [[ -f .gitmodules ]]; then
+#    echo "Initializing Git submodules..."
+#    git submodule update --init --recursive
+#  fi
 
   # Install Node.js dependencies
   if [[ -f package-lock.json ]]; then
