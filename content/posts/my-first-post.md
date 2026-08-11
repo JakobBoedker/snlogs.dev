@@ -1,6 +1,6 @@
 +++
 date = '2026-08-11T08:55:00+02:00'
-draft = true
+draft = false
 tags = ["test"]
 title = 'My First Post'
 +++
