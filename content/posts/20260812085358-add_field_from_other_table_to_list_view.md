@@ -1,5 +1,6 @@
 +++
 title = "Add Field From other table to list"
+lastmod = 2026-08-12T09:10:07+02:00
 draft = false
 +++
 
