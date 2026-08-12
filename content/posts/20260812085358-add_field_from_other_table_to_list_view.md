@@ -1,10 +1,8 @@
 +++
 title = "Add Field From other table to list"
-lastmod = 2026-08-12T15:29:31+02:00
+lastmod = 2026-08-12T15:30:18+02:00
 draft = false
 +++
-
-## Add Field from other table to list view {#add-field-from-other-table-to-list-view}
 
 The other day, I was creating a module under an application menu in ServiceNow that looks at the sc_task table with a filter for specific catalog items (cat_item).
 The client wanted the list to display the Requested For field (requested_item.requested_for).
@@ -21,7 +19,7 @@ It turns out ServiceNow has another way to customize the list layout:
 This opens a completely different menu with a lot more fields to choose from, including dot-walked fields from related tables.
 
 
-### The One Caveat {#the-one-caveat}
+## The One Caveat {#the-one-caveat}
 
 You need to enable a specific UI property to see fields from other tables in this menu.
 You can do this in one of two ways:
