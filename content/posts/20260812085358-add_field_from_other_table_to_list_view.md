@@ -1,6 +1,6 @@
 +++
 title = "Add Field From other table to list"
-lastmod = 2026-08-12T15:30:18+02:00
+lastmod = 2026-08-12T15:33:16+02:00
 draft = false
 +++
 
@@ -13,7 +13,6 @@ So, I did what any sane person would do and asked my best friend, Google. That d
 It turns out ServiceNow has another way to customize the list layout:
 
 -   Click the three dots (column menu) on any field header in the list.
-
 -   Select Configure &gt; List Layout.
 
 This opens a completely different menu with a lot more fields to choose from, including dot-walked fields from related tables.
