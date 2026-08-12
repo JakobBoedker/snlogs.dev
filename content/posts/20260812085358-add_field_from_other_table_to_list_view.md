@@ -1,6 +1,6 @@
 +++
 title = "Add Field From other table to list"
-lastmod = 2026-08-12T15:33:16+02:00
+lastmod = 2026-08-12T15:38:58+02:00
 draft = false
 +++
 
@@ -28,5 +28,4 @@ You can do this in one of two ways:
 > "Allow base table list (task, cmdb_ci, etc) to include extended table fields (incident_state, os_version, etc), and allow filtering on extended table fields."
 
 -   Set this to Yes by checking the box.
-
-Via System Properties Table (sys_properties): Navigate to sys_properties.list, locate the property named glide.ui.list.allow_extended_fields, and set its value to true.
+-   Via System Properties Table (sys_properties): Navigate to sys_properties.list, locate the property named glide.ui.list.allow_extended_fields, and set its value to true.
