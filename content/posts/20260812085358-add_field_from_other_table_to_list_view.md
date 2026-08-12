@@ -1,6 +1,6 @@
 +++
 title = "Add Field From other table to list"
-lastmod = 2026-08-12T15:26:47+02:00
+lastmod = 2026-08-12T15:29:31+02:00
 draft = false
 +++
 
@@ -11,6 +11,7 @@ The client wanted the list to display the Requested For field (requested_item.re
 However, because that field isn't directly on the sc_task table, I ran into a problem: I couldn't find it using the normal Personalize List option.
 
 So, I did what any sane person would do and asked my best friend, Google. That didn't seem to get me very far at first—until I stumbled upon a ServiceNow Community post.
+
 It turns out ServiceNow has another way to customize the list layout:
 
 -   Click the three dots (column menu) on any field header in the list.
